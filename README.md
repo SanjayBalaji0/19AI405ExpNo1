@@ -48,7 +48,8 @@
 Developing AI Agent with PEAS Description
 Developed by: Sanjay Balaji S
 RegisterNumber: 212223240149
-
+```
+```py
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
